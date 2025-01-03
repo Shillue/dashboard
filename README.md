@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+src="https://github.com/Shillue/dashboard/blob/main/assets/dashboard.jpg"
+width="400" 
+height="300"
+/>
+</p>
+
 # **Dashboard para Organização Financeira**  
 > ℹ️ **NOTA:** Este repositório contém um projeto desenvolvido no curso **"Como Organizar Sua Vida Financeira com Planilhas Inteligentes e IA"**, oferecido pela Digital Innovation One (DIO).
 
